@@ -1,10 +1,10 @@
 <h1 align="center">˜”*°•.˜”*°• ✨ Welcome to my Profile ✨ •°*”˜.•°*”˜</h1>
 
- <details open>
-<summary align="center"><h2>˜”*°•.˜”*°• About Me Professionally •°*”˜.•°*”˜</h2></summary>
+<details open>
+<summary><h2>˜”*°•.˜”*°• About Me Professionally •°*”˜.•°*”˜</h2></summary> 
 <p>
-It's nice to meet you. Enjoy your stay~
-I'm a Full-stack developer graduated from a 3-year college program with an eye for ethical hacking, game development and software development. If I had to rank my interests, it would be:<br>  
+It's nice to meet you. I'm Kevin Lam. Enjoy your stay~<br>
+I'm a Full-stack developer graduated from a 3-year college program, 2 years of professional experience and almost 3 years of freelance experience with an eye for ethical hacking, game development and software development. If I had to rank my interests, it would be:<br>  
 1. Cybersecurity<br>
 2. Game Development<br>
 3. Software Development<br>
@@ -13,23 +13,20 @@ Content creation is also part of my plans and possibly other things that I have 
 </details>
 
 <details>
-<summary align="center"><h2>˜”*°•.˜”*°• About Me Personally •°*”˜.•°*”˜</h3></summary>
+<summary><h2>˜”*°•.˜”*°• About Me Personally •°*”˜.•°*”˜</h2></summary>
 - <b>Hobbies :</b>soccer, saxophone, PC Building, filming, photography, gaming, streaming. I would include drawing, pen spinning and graphic design, however I haven't practiced enough, but they do interest me among other things. I'll keep this list short.
 <br>
 - <b>Watch :</b>Mainly anime, randome YouTube videos and occasionally documentaries<br>
-- <b>Music :</b>Eurobeat, vocaloid, Phonk, Hard Phonk, Lo-Fi, Instrumental Rap Beats, Classical and many more.<br><br><br>
-  
-<h3 align="center">˜”*°•.˜”*°• A few more little things: •°*”˜.•°*”˜</h3>
+- <b>Music :</b>Eurobeat, vocaloid, Phonk, Hard Phonk, Lo-Fi, Instrumental Rap Beats, Classical and many more.<br><br>
+<h3 align="center">˜”*°•.˜”*°• A few more things: •°*”˜.•°*”˜</h3>
+- 🔭 Currently working on a personal portfolio site<br>
+- 🌱 Presently learning C++ and almost done with the online course<br>
+- 👯 Seeking to collaborate on content creation and/or development projects<br>
+- 💬 Ask me about anything really, I'm pretty open<br>
+- ⚡ Fun fact: <b>major</b> car enthusiast and some co-workers found it weird that a developer would also be into cars.<br>
+</details><br>
 
-- 🔭 Currently working on a MERN Full-stack project
-- 🌱 Presently learning C++ and almost done with the online course
-- 👯 Seeking to collaborate on content creation and/or development projects
-- 💬 Ask me about anything really, I'm pretty open
-- ⚡ Fun fact: **major** car enthusiast and some co-workers found it weird that a developer would also be into cars.
-  
-</details>
-
-<h3 align="center">˜”*°•.˜”*°• 🧰 Languages, Frameworks and Tools •°*”˜.•°*”˜</h4>
+<h3 align="center">˜”*°•.˜”*°• 🧰 Languages, Frameworks and Tools •°*”˜.•°*”˜</h3>
 *Note: some of the images link to where I learned about the language or tool. Those with no links are what I learned in College or from a YouTube tutorial and just have a tooltip when you hover over them. I don't remember all of the tutorials I've watched, so some just aren't linked and have an explanation instead.
 
 <br>
@@ -80,8 +77,8 @@ Content creation is also part of my plans and possibly other things that I have 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows Icon" width="40" height="40" title="Windows is my main OS however I'm looking to switch to Linux very soon"/>
 <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Arch Linux Icon" width="40" height="40" title="Arch Linux: Touched this a little from an online course,but haven't switched to it or have used it extensively yet."/>
 
-<details><summary align="center"><h3>˜”*°•.˜”*°• Additional Software not related to Programming •°*”˜.•°*”˜</h3></summary>
+<details><summary><h3>˜”*°•.˜”*°• Additional Software not related to Programming •°*”˜.•°*”˜</h3></summary>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="After Effects Icon" width="40" height="40" title="made a few video projects with this however that YouTube channel is Effectively dead and didn't really know what I was doing."/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/65px-DaVinci_Resolve_17_logo.svg.png" alt="DaVinci Resolve Icon" width="40" height="40" title="seems like a great alternative to after effects and premiere pro. Used this in my first year of college in web programming for an assignment but no extensive knowledge yet."/> <a href="https://www.udemy.com/course/blendertutorial/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender Icon" width="40" height="40" title="Did a Udemy course on 3D modeling."/></a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Premiere Pro Icon" width="40" height="40" title="same as after effects, did a few projects a while ago."/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop Icon" width="40" height="40" title="I use this often to make my own simple things like a banner or a simple logo."/>
 </details>
 
-<h2 align="center">˜”*°•.˜”*°• (～￣▽￣)～ Thank you for your visit ～(￣▽￣～) •°*”˜.•°*”˜</h2>
+<h2 align="center">˜”*°•.˜”*°• (～￣▽￣)～ Thanks for visiting ～(￣▽￣～) •°*”˜.•°*”˜</h2>
